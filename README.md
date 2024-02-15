@@ -2,7 +2,9 @@
 
 <h1> Hola, soy Jose! 🙋‍♂️ </h1>
 
-Soy un apasionado del analisis de datos y de crear historias a traves de Power Bi. Te invito a que veas en mi [repositorio](https://github.com/guadano?tab=repositories) algunos de los informes que hecho en esta potente herramienta, y si deseas saber más sobre mi, puedes ver mi curriculum tambien en formato Power Bi [aqui](https://app.powerbi.com/view?r=eyJrIjoiYjk1YjYyNDAtMDZiMy00YjU0LWEwNzAtNzZiYmRmZTYyNjJjIiwidCI6ImJlYTQyMGRlLTJkNjYtNDZmYy05OTVkLTUxYzYwN2MwOGQxZSIsImMiOjl9)
+Soy un apasionado del análisis de datos y de crear historias a través de Power Bi. Te invito a que veas en mi [repositorio](https://github.com/guadano?tab=repositories) algunos de los informes que hecho en esta potente herramienta, desde informes más sencillos, hasta otros más elaborados.
+
+Si deseas saber más sobre mí, puedes ver mi curriculum también en formato Power Bi [aqui](https://app.powerbi.com/view?r=eyJrIjoiYjk1YjYyNDAtMDZiMy00YjU0LWEwNzAtNzZiYmRmZTYyNjJjIiwidCI6ImJlYTQyMGRlLTJkNjYtNDZmYy05OTVkLTUxYzYwN2MwOGQxZSIsImMiOjl9)
 
 <h2> Tecnologias y Herramientas </h2>
 

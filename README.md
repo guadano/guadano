@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/guadano/" title="Jose Guadaño"><img src="https://drive.google.com/file/d/1jjLPZEqoLHIE1PRf6XpNUmX9JfSY-Lfy/view?usp=sharing"></a>
+<a href="https://www.linkedin.com/in/guadano/" title="Jose Guadaño"><img src="https://github.com/guadano/guadano/blob/main/monument_valley.jpg"></a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guadano/" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="50" border="0"></a></p>

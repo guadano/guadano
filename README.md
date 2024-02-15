@@ -4,7 +4,7 @@
 
 Soy un apasionado del analisis de datos y de crear historias a traves de Power Bi. Te invito a que veas en mi repositorio algunos de los informes que hecho en esta potente herramienta, y si deseas saber más sobre mi, puedes ver mi curriculum tambien en formato Power Bi [aqui](https://app.powerbi.com/view?r=eyJrIjoiOGVkMjFiNDMtMWNmYi00NzdkLWJlYmItMzgwYWQ0NDNkNmNmIiwidCI6ImJlYTQyMGRlLTJkNjYtNDZmYy05OTVkLTUxYzYwN2MwOGQxZSIsImMiOjl9)
 
-<h2> Technologies and Tools </h2>
+<h2> Tecnologias y Herramientas </h2>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=WINDOWS&logoColor=white&color=informational)![](https://img.shields.io/badge/Tool-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Language-MySQL-blueviolet?style=plastic&logo=mysql&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/Language-PostgreSQL-blueviolet?style=plastic&logo=postgresql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-MSExcel-informational?style=plastic&logo=WINDOWS&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=PYTHON&logoColor=white&color=yellow) ![](https://img.shields.io/badge/xml?style=plastic&logo=CODE&logoColor=white&color=orange) ![](https://img.shields.io/badge/Tool-PowerPoint-informational?style=plastic&logo=WINDOWS&logoColor=white&color=red)
 

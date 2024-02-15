@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/guadano/" title="Jose Guadaño"><img src="https://github.com/guadano/guadano/blob/main/monumentValley.jpg"></a>
 
-<h1> Hola! 🙋‍♂️ </h1>
+<h1> Hola, soy Jose! 🙋‍♂️ </h1>
 
 Después de trabajar durante algunos años en el sector del contact center como coordinador de operaciones para diversos clientes tanto en España, Colombia y Chile, decidí dar un vuelco profesional y dedicarme a lo que realmente es mi pasión, la tecnología. 
 

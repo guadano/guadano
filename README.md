@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/guadano/" title="Jose Guadaño"><img src=""></a>
+<a href="https://www.linkedin.com/in/guadano/" title="Jose Guadaño"><img src="https://github.com/guadano/guadano/blob/main/monumentValley.jpg"></a>
 
 <h1> Hola! 🙋‍♂️ </h1>
 

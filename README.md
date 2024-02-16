@@ -16,3 +16,5 @@ Si deseas saber más sobre mí, puedes ver mi curriculum también en formato Pow
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guadano/" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="50" border="0"></a> <a ![PowerBi](https://drive.google.com/file/d/1KBAhIHU4Z7bdZBHvZT0MTKWXalNDhTfQ/view?usp=drive_link) width="50" height="50" border="0"></a></p>
+
+<img src="https://drive.google.com/file/d/1KBAhIHU4Z7bdZBHvZT0MTKWXalNDhTfQ/view?usp=drive_link" alt="PowerBi">
